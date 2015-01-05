@@ -22,7 +22,8 @@
   "bin"             : { "js-yaml": "bin/js-yaml.js" },
 
   "dependencies"    : { "argparse": "~ 0.1.11",
-                        "esprima":  "~ 1.0.2" },
+                        "esprima":  "~ 1.0.2",
+                        "indent-string":  "~ 1.2.0" },
   "devDependencies" : {
                         "ansi": "*",
                         "benchmark": "*",
